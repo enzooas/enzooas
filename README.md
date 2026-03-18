@@ -4,13 +4,11 @@
 ---
 
 ## 👩‍💻 Sobre mim
- focado em criar soluções práticas e interfaces interativas, trabalhando tanto no Front-End quanto no Back-End. Estou construindo projetos reais enquanto ganho experiência prática em tecnologia.
+Busco uma oportunidade de estágio em desenvolvimento de software. Estou em constante evolução, dedicado a consolidar meus conhecimentos e desenvolver novas habilidades por meio da prática e do aprendizado contínuo.
  
-- 🚀 Em busca da minha primeira oportunidade em **Desenvolvimento Web**  
-- 💻 Tecnologias que domino: Java, JavaScript, React, Node.js, SQL
-- 💼 Aberto para: estágio, júnior, projetos freelancers  
-- 🎯 Meu foco: qualidade de código, boas práticas, componentes reutilizáveis e performance
-
+- 🚀 Em busca da minha primeira oportunidade de estágio na área
+- 💻 Tecnologias que tenho conhecimento: Java, JavaScript, HTML, CSS
+- 💼 Aberto para: estágio, jovem aprendiz  
 ---
 
 ## 📬 Contato
@@ -19,7 +17,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="linkedin.com/in/enzo-amaral-1a69a4300/" target="_blank">
+  <a href="https://linkedin.com/in/enzo-amaral-1a69a4300/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -43,7 +41,8 @@
 - Front-end
 - Banco de Dados
 - Estrutura de Dados
-- Integração Back-End & Front-End
+- Programação Web (JSP)
+- Engenharia de Requisitos
 - Scrum
 ---
 
