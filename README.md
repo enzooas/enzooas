@@ -1,50 +1,73 @@
+```md
 <h1 align="center">Enzo Amaral</h1>
-<h3 align="center"> Engenharia de Software | 3º semestre </h3>
 
----
+<p align="center">
+  Estudante de Engenharia de Software • 3º semestre
+</p>
 
-## 👩‍💻 Sobre mim
-Busco uma oportunidade de estágio em desenvolvimento de software. Estou em constante evolução, dedicado a consolidar meus conhecimentos e desenvolver novas habilidades por meio da prática e do aprendizado contínuo.
- 
-- 🚀 Em busca da minha primeira oportunidade de estágio na área
-- 💻 Tecnologias que tenho conhecimento: Java, JavaScript, HTML, CSS
-- 💼 Aberto para: estágio, jovem aprendiz  
----
-
-## 📬 Contato
-<p align="left">
-  <a href="mailto:contact.enzoamaral2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/enzo-amaral-1a69a4300/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p align="center">
+  Java • Spring • PostgreSQL • HTML • CSS • JavaScript
 </p>
 
 ---
 
-## 🛠️ Tecnologias que utilizo
-<div style="display: flex; flex-wrap: wrap;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+## 👨‍💻 Sobre mim
+
+Estudante de Engenharia de Software com foco em desenvolvimento back-end e construção de soluções utilizando Java.
+
+Possuo experiência em ambientes administrativos e logísticos, além de conhecimentos em programação orientada a objetos, banco de dados e desenvolvimento web.
+
+Atualmente estudando:
+- Spring Framework
+- PostgreSQL
+- Estruturas de Dados
+- Engenharia de Requisitos
+
+---
+
+## 🚀 Tecnologias
+
+<div align="left">
+
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
 </div>
 
 ---
 
-## 🧠 O que estou estudando agora
+## 📚 Conhecimentos
 
-- Java e POO
-- Front-end
+- Programação Orientada a Objetos (POO)
+- Estruturas de Dados
+- Desenvolvimento Web
 - Banco de Dados
-- Estrutura de Dados
-- Programação Web (JSP)
-- Engenharia de Requisitos
 - Scrum
+
 ---
 
-## 🤝 Vamos conversar?
-Sinta-se à vontade para me chamar! Adoro trocar ideias e colaborar em projetos.
+## 📌 Objetivo
+
+Buscando oportunidade de estágio na área de desenvolvimento de software para aplicar e evoluir conhecimentos em Java, banco de dados e desenvolvimento back-end.
+
+---
+
+## 📬 Contato
+
+<p align="left">
+
+<a href="mailto:enzoamaral2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/enzo-amaral-1a69a4300/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+```
